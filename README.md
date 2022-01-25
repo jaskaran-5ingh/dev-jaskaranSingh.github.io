@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaskaran Singh</h1>
 <h3 align="center">A passionate frontend developer from India 😎</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/42887065?v=4" alt="dev-jaskaransingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaransingh4704&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jaskaransingh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jaskaran4704" target="blank"><img src="https://img.shields.io/twitter/follow/jaskaran4704?logo=twitter&style=for-the-badge" alt="jaskaran4704" /></a> </p>
 
